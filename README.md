@@ -1,8 +1,2 @@
-# pytest cache directory #
-
-This directory contains data from the pytest's cache plugin,
-which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
-
-**Do not** commit this to version control.
-
-See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
+# voting
+**Digital Voter Services &amp; Online Voting Portal** is a BCA 2nd-year project that provides voter registration, voter search, election information, secure online voting, duplicate-vote prevention, results, and admin management using **Python, Flask, MySQL, HTML, CSS, and JavaScript**. Developed using the  Waterfall Model
